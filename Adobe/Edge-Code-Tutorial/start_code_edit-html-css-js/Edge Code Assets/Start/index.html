@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<title>The Plant Store</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="wrapper">
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#" class="nav-link">View Cart (1)</a></li>
+                <li><a href="#" class="nav-link">Contact</a></li>
+                <li><a href="#" class="nav-link">FAQ</a></li>
+                <li><a href="#" class="nav-link">Shop Online</a></li>
+                <li><a href="#" class="nav-link">About</a></li>
+            </ul>
+        </nav>
+        <hr class="clear">
+        <h1>The Plant Store</h1>
+    </header>
+    <div class="banner">
+        <h2><span class="banner-subhead">Beautiful Succulents are</span><br><span class="banner-subhead">always in season.</span></h2>
+    </div>
+    <div class="item">
+        <img src="img/plant1.jpg">
+        <h3>Bromiliads</h3>
+        <p>Colorful tropical plants that can live both indoors and outdoors. They need little water or special care. They come in various different colors, including red, pink, orange and yellow.</p>
+    </div>
+    <div class="item">
+        <img src="img/plant2.jpg">
+        <h3>Air plants</h3>
+        <p>An air plant is perhaps the easiest plant to take care of, even if you don’t have a green thumb. They need very little water, hence their name, as they seem to live on air only.</p>
+    </div>
+    <div class="item">
+        <img src="img/plant3.jpg">
+        <h3>Succulents</h3>
+        <p>These hearty plants often grow in deserts or dry climates. For this reason, they store water in their leaves, stems and roots.</p>
+    </div>
+    <div class="item">
+        <img src="img/plant4.jpg">
+        <h3>More succulents</h3>
+        <p>Because they store so much water, succulents often have a swollen, fleshy appearance. Contrary to common belief, cacti are not succulents.</p>
+    </div>
+    <div class="item">
+        <img src="img/plant5.jpg">
+        <h3>Ferns</h3>
+        <p>A flowerless plant that has feathery or leafy fronds and reproduces by spores released from the undersides of the fronds.</p>
+    </div>
+    <div class="item">
+        <img src="img/plant6.jpg">
+        <h3>Butterflies</h3>
+        <p>Though they don’t do the job as much as bees do, butterflies are important pollinators for your plants. And a colorful visitor as well!</p>
+    </div>
+    <div class="clear"></div>
+    <footer>
+    <p><img src="img/icon.gif" width="15">&copy; 2013 Adobe Systems Inc. All rights reserverd.  The Plant Store was created with Adobe Edge Code and Adobe Edge Inspect tools.  This site and its content is for demo purposes only.</p>
+    </footer>
+</div>
+<script src="main.js"></script>
+<script>
+    // add a click handler to each navigation link
+    navItems = document.getElementsByClassName("nav-link");
+    for (var i = 0; i < navItems.length; ++i) {
+        navItems[i].addEventListener("click",doStuff);
+    }
+</script>
+</body>
+</html>
