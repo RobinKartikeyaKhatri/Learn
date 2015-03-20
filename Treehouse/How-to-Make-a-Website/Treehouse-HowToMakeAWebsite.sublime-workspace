@@ -1,0 +1,342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!doctype html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"utf-8\">\n	<title>Bob Howard Resume</title>\n	<link rel=\"stylesheet\" type=\"text/sytlesheet\" href=\"style.css\"/>\n</head>\n\n<body>\n	<main>\n		<section class=\"content\">\n			<header class=\"note-holder\">\n				<h1>Bob Howard</h1>\n				<div class=\"contact note\">\n					<div class=\"job-title\">Freelance Web Developer</div>\n					<div class=\"phone\">p: 512-638-3606</div>\n					<div class=\"email\">e: pachelbel117@gmail.com</div>\n					<div class=\"website\">w: <a href=\"http://bob-howard.info\">Bob-Howard.info</a></div>\n				</div>\n			</header>\n\n			<blockquote class=\"profile\">\n				I love to code!  I'm looking for new opportunities.\n			</blockquote>\n\n			<section class=\"education\">\n				<h2>Education</h2>\n\n				<article class=\"note-holder\">\n					<h3>SkilledUp Adademy</h3>\n					<ul>\n						<li>6 Week Front End intensive simulating an actual job environment.</li>\n						<li>Created deliverables from scratch using HTML5, CSS3, and Web APIs.</li>\n					</ul>\n					<div class=\"note date\">Mar-Apr 2015</div>\n				</article>\n\n				<article class=\"note-holder\">\n					<h3>US Navy</h3>\n					<ul>\n						<li>Radiological controls.</li>\n						<li>Electrcian's Mate</li>\n					</ul>\n					<div class=\"note-date\">\n						1985-1987\n					</div>\n				</article>\n			</section>\n\n			<section class=\"experience\">\n				<h2>Experience</h2>\n\n				<article class=\"note-holder\">\n					<h3>AT&amp;T Wireless</h3>\n					<ul>\n						<li>Mobile data support.</li>\n						<li>Chat center.</li>\n					</ul>\n					<div class=\"note date\">2008-2015</div>\n				</article>	\n\n				<article class=\"note-holder\">\n					<h3>Comcast</h3>\n					<ul>\n						<li>Broadband support</li>\n						<li>Training Coordinator</li>\n					</ul>\n					<div class=\"note date\">\n						1998-2005\n					</div>\n				</article>\n			</section>\n		</section>\n\n		<aside>\n			<img src=\"/images/bob-howard.jpg\" alt=\"Bob Howard headshot\"/>\n			<article class=\"skills\">\n				<h2>Technical Skills</h2>\n				<ul>\n					<li>Web development</li>\n					<li>Responsive design</li>\n				</ul>\n				<h2>Software Competencies</h2>\n				<ul>\n					<li>Sublime Text</li>\n					<li>Command Line Git</li>\n				</ul>\n			</article>\n		</aside>\n	</main>\n</body>\n</html>\n",
+			"file": "/C/1-Code/Sites/Bob-Howard.us/resume/index.html",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 2175,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/1-Code/Sites/Bob-Howard.us/index.html",
+			"settings":
+			{
+				"buffer_size": 2175,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/1-Code",
+		"/C/1-Code/Learn",
+		"/C/1-Code/Learn/SkilledUp",
+		"/C/1-Code/Learn/SkilledUp/Example-Resume",
+		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website",
+		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/css",
+		"/C/1-Code/Sites",
+		"/C/1-Code/Sites/Bob-Howard.us",
+		"/C/1-Code/Sites/Bob-Howard.us/images"
+	],
+	"file_history":
+	[
+		"/C/1-Code/Sites/Bob-Howard.us/index.html",
+		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/Treehouse-HowToMakeAWebsite.sublime-workspace",
+		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/index.html",
+		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/css/main.css",
+		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/css/normalize.css",
+		"/C/1-Code/Learn/Treehouse/Treehouse-Club-HTML/index.html",
+		"/C/1-Code/Learn/1-Test/style.css",
+		"/C/1-Code/Learn/1-Test/index.html",
+		"/C/Users/Bob/Google Drive/1-Code/Treehouse/Treehouse-Club-HTML/index.html",
+		"/C/Users/Bob/Google Drive/1-Code/ShayHowe/styles-conference/main.css",
+		"/C/Users/Bob/Google Drive/1-Code/ShayHowe/styles-conference/index.html",
+		"/C/Users/Bob/SkyDrive/1-Code/0.5-SkilledUp/Example-Resume/style.css",
+		"/C/Users/Bob/SkyDrive/1-Code/0.5-SkilledUp/Example-Resume/index.html",
+		"/C/Users/Bob/SkyDrive/1-Code/3-Learn/Treehouse/Treehouse-Club-HTML/index.html",
+		"/C/Users/Bob/SkyDrive/1-Code/0-Sites/bob-howard.info/learn/index.html",
+		"/C/Users/Bob/Dropbox/Public/Treehouse/How-to-Make-a-Website/index.html",
+		"/C/Users/Bob/Desktop/node-test.js",
+		"/C/Users/Bob/SkyDrive/1-Code/3-Learn/General Assembly Dash/Build a Personal Web Site/index.html",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Bob/Dropbox/Public/Jonathan/index.html",
+		"/C/Users/Bob/Dropbox/Public/Jennifer/index.html",
+		"/C/Users/Bob/Dropbox/GitHub/mobile-homeworktime/index.html",
+		"/C/Users/Bob/Dropbox/Public/Treehouse/How-to-Make-a-Website/css/main.css",
+		"/C/Users/Bob/Dropbox/Public/Treehouse/How-to-Make-a-Website/css/responsive.css",
+		"/C/Users/Bob/Dropbox/Public/Treehouse/How-to-Make-a-Website/contact.html",
+		"/C/Users/Bob/Dropbox/Public/Treehouse/How-to-Make-a-Website/about.html",
+		"/C/Users/Bob/Dropbox/Public/Learn-How-To-Program/my-first-webpage.html",
+		"/C/Users/Bob/Dropbox/Public/Career-Foundry/frontend-dev/Taskly/about.html",
+		"/C/Users/Bob/Dropbox/Public/Career-Foundry/frontend-dev/Taskly/contact.html",
+		"/C/Users/Bob/Dropbox/Public/Career-Foundry/frontend-dev/Taskly/styles.css",
+		"/C/Users/Bob/Dropbox/Public/Career-Foundry/frontend-dev/Taskly/index.html",
+		"/C/Users/Bob/Dropbox/Public/Game-Studio/index.html",
+		"/C/Users/Bob/Dropbox/Public/Game-Studio/css/main.css",
+		"/C/Users/Bob/Dropbox/Public/Career-Foundry/frontend-dev/Taskly/css/bootstrap.css",
+		"/C/Users/Bob/Dropbox/Public/Career-Foundry/frontend-dev/my_cf_project/index.html",
+		"/C/Users/Bob/Dropbox/Public/Thinkful/HTML-101/html-101/my-profile-page/main.css",
+		"/C/Users/Bob/Dropbox/Public/Thinkful/HTML-101/html-101/my-profile-page/index.html",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Bob/Dropbox/Public/Treehouse/How-to-Make-a-Website/css/normalize.css",
+		"/C/Users/Bob/Dropbox/Public/Thinkful/HTML-101/html-101/honest-abe/main.css",
+		"/C/Users/Bob/Dropbox/Public/Thinkful/HTML-101/html-101/honest-abe/index.html",
+		"/C/Users/Bob/Desktop/test.html",
+		"/C/Users/Bob/Dropbox/Public/Thinkful/HTML-101/html-101/honest-abe/lesson-3/index.html",
+		"/C/Users/Bob/Dropbox/Public/Thinkful/HTML-101/html-101/honest-abe/reset.css",
+		"/C/Users/Bob/SkyDrive/Documents/Code/Thinkful/HTML/html-101/honest-abe/index.html",
+		"/C/Users/Bob/SkyDrive/Documents/Code/Thinkful/HTML/html-101/honest-abe/main.css",
+		"/C/Users/Bob/SkyDrive/Documents/Code/Thinkful/HTML/html-101/honest-abe/reset.css",
+		"/C/Users/Bob/SkyDrive/Documents/Code/Thinkful/HTML/html-101/honest-abe/reset-test.css",
+		"/C/Users/Bob/SkyDrive/Documents/Code/Thinkful/HTML/html-101/css/main.css",
+		"/C/Users/Bob/SkyDrive/Documents/Code/Thinkful/HTML/html-101/css/index.html",
+		"/C/Users/Bob/SkyDrive/Documents/Code/HTML/html-101/hello-world/index.html",
+		"/C/Users/Bob/SkyDrive/Documents/Programming/Projects/C# Test.cs",
+		"/C/Users/Bob/SkyDrive/apps/JavaScript/LearnStreet/JavaScriptIntroduction.html",
+		"/C/Users/Bob/SkyDrive/Documents/Code/Python/LearnStreet/Python-for-Beginners-v3",
+		"/C/Users/Bob/SkyDrive/apps/NodeJS/NodeJSTest1.js",
+		"/C/Users/Bob/SkyDrive/Documents/Programming/HTML/HTML Documents/test1.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"body",
+			"job-",
+			"<img src",
+			"<a href",
+			"<ol>",
+			"<ul>",
+			"<br>",
+			"logo.png"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\1-Code"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/1-Code/Sites/Bob-Howard.us/resume/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/1-Code/Sites/Bob-Howard.us/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
