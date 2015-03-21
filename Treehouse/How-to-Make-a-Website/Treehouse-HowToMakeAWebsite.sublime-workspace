@@ -20,21 +20,18 @@
 	"buffers":
 	[
 		{
-			"contents": "<!doctype html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"utf-8\">\n	<title>Bob Howard Resume</title>\n	<link rel=\"stylesheet\" type=\"text/sytlesheet\" href=\"style.css\"/>\n</head>\n\n<body>\n	<main>\n		<section class=\"content\">\n			<header class=\"note-holder\">\n				<h1>Bob Howard</h1>\n				<div class=\"contact note\">\n					<div class=\"job-title\">Freelance Web Developer</div>\n					<div class=\"phone\">p: 512-638-3606</div>\n					<div class=\"email\">e: pachelbel117@gmail.com</div>\n					<div class=\"website\">w: <a href=\"http://bob-howard.info\">Bob-Howard.info</a></div>\n				</div>\n			</header>\n\n			<blockquote class=\"profile\">\n				I love to code!  I'm looking for new opportunities.\n			</blockquote>\n\n			<section class=\"education\">\n				<h2>Education</h2>\n\n				<article class=\"note-holder\">\n					<h3>SkilledUp Adademy</h3>\n					<ul>\n						<li>6 Week Front End intensive simulating an actual job environment.</li>\n						<li>Created deliverables from scratch using HTML5, CSS3, and Web APIs.</li>\n					</ul>\n					<div class=\"note date\">Mar-Apr 2015</div>\n				</article>\n\n				<article class=\"note-holder\">\n					<h3>US Navy</h3>\n					<ul>\n						<li>Radiological controls.</li>\n						<li>Electrcian's Mate</li>\n					</ul>\n					<div class=\"note-date\">\n						1985-1987\n					</div>\n				</article>\n			</section>\n\n			<section class=\"experience\">\n				<h2>Experience</h2>\n\n				<article class=\"note-holder\">\n					<h3>AT&amp;T Wireless</h3>\n					<ul>\n						<li>Mobile data support.</li>\n						<li>Chat center.</li>\n					</ul>\n					<div class=\"note date\">2008-2015</div>\n				</article>	\n\n				<article class=\"note-holder\">\n					<h3>Comcast</h3>\n					<ul>\n						<li>Broadband support</li>\n						<li>Training Coordinator</li>\n					</ul>\n					<div class=\"note date\">\n						1998-2005\n					</div>\n				</article>\n			</section>\n		</section>\n\n		<aside>\n			<img src=\"/images/bob-howard.jpg\" alt=\"Bob Howard headshot\"/>\n			<article class=\"skills\">\n				<h2>Technical Skills</h2>\n				<ul>\n					<li>Web development</li>\n					<li>Responsive design</li>\n				</ul>\n				<h2>Software Competencies</h2>\n				<ul>\n					<li>Sublime Text</li>\n					<li>Command Line Git</li>\n				</ul>\n			</article>\n		</aside>\n	</main>\n</body>\n</html>\n",
-			"file": "/C/1-Code/Sites/Bob-Howard.us/resume/index.html",
-			"file_size": -1,
-			"file_write_time": -1,
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2175,
+				"buffer_size": 1702,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/1-Code/Sites/Bob-Howard.us/index.html",
+			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 2175,
+				"buffer_size": 163,
 				"line_ending": "Windows"
 			}
 		}
@@ -77,24 +74,39 @@
 	[
 		"/C/1-Code",
 		"/C/1-Code/Learn",
-		"/C/1-Code/Learn/SkilledUp",
-		"/C/1-Code/Learn/SkilledUp/Example-Resume",
+		"/C/1-Code/Learn/Treehouse",
 		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website",
-		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/css",
-		"/C/1-Code/Sites",
-		"/C/1-Code/Sites/Bob-Howard.us",
-		"/C/1-Code/Sites/Bob-Howard.us/images"
+		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/css"
 	],
 	"file_history":
 	[
-		"/C/1-Code/Sites/Bob-Howard.us/index.html",
-		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/Treehouse-HowToMakeAWebsite.sublime-workspace",
-		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/index.html",
+		"/C/1-Code/Learn/CodeSchool/Front-End-Foundations/Open-Source-Records/reguar-band.html",
+		"/C/1-Code/Learn/CodeSchool/Front-End-Foundations/Open-Source-Records/about.html",
+		"/C/1-Code/Learn/CodeSchool/Front-End-Foundations/Open-Source-Records/bands.html",
+		"/C/1-Code/Learn/CodeSchool/Front-End-Foundations/Open-Source-Records/contact.html",
+		"/C/1-Code/Learn/CodeSchool/Front-End-Foundations/Open-Source-Records/expressions-band.html",
+		"/C/1-Code/Learn/CodeSchool/Front-End-Foundations/Open-Source-Records/expressions.html",
+		"/C/1-Code/Learn/CodeSchool/Front-End-Foundations/Open-Source-Records/index.html",
 		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/css/main.css",
+		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/index.html",
+		"/C/1-Code/pachelbel117.github.io/style.css",
+		"/C/1-Code/pachelbel117.github.io/index.html",
+		"/C/1-Code/Sites/Bob-Howard.us/style.css",
+		"/C/1-Code/Sites/Bob-Howard.us/index.html",
+		"/C/1-Code/Learn/SkilledUp/Example-Resume/style.css",
+		"/C/1-Code/Learn/SkilledUp/Example-Resume/index.html",
+		"/C/1-Code/Learn/1-Test/index.html",
+		"/C/1-Code/Learn/1-Test/style.css",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.last-run",
+		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/1-Code/Sites/Bob-Howard.us/resume/index.html",
+		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/Treehouse-HowToMakeAWebsite.sublime-workspace",
 		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/css/normalize.css",
 		"/C/1-Code/Learn/Treehouse/Treehouse-Club-HTML/index.html",
-		"/C/1-Code/Learn/1-Test/style.css",
-		"/C/1-Code/Learn/1-Test/index.html",
 		"/C/Users/Bob/Google Drive/1-Code/Treehouse/Treehouse-Club-HTML/index.html",
 		"/C/Users/Bob/Google Drive/1-Code/ShayHowe/styles-conference/main.css",
 		"/C/Users/Bob/Google Drive/1-Code/ShayHowe/styles-conference/index.html",
@@ -127,8 +139,6 @@
 		"/C/Users/Bob/Dropbox/Public/Thinkful/HTML-101/html-101/my-profile-page/index.html",
 		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
 		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
-		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/Bob/Dropbox/Public/Treehouse/How-to-Make-a-Website/css/normalize.css",
 		"/C/Users/Bob/Dropbox/Public/Thinkful/HTML-101/html-101/honest-abe/main.css",
 		"/C/Users/Bob/Dropbox/Public/Thinkful/HTML-101/html-101/honest-abe/index.html",
@@ -150,7 +160,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -164,6 +174,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"note {",
+			"date {",
+			"note {",
+			"note",
+			"tab_size",
+			"tab",
 			"body",
 			"job-",
 			"<img src",
@@ -196,16 +212,16 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/1-Code/Sites/Bob-Howard.us/resume/index.html",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2175,
+						"buffer_size": 1702,
 						"regions":
 						{
 						},
@@ -225,37 +241,35 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/1-Code/Sites/Bob-Howard.us/index.html",
-					"semi_transient": true,
+					"file": "css/main.css",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2175,
+						"buffer_size": 163,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								172,
-								172
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"spell_check": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
