@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"background",
+				"background-color"
+			],
+			[
 				"al",
 				"text-align"
 			],
@@ -23,7 +27,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1702,
+				"buffer_size": 1845,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/1-Code/Learn/1-Test/index.html",
+			"settings":
+			{
+				"buffer_size": 1637,
 				"line_ending": "Windows"
 			}
 		},
@@ -31,7 +43,7 @@
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 163,
+				"buffer_size": 1459,
 				"line_ending": "Windows"
 			}
 		}
@@ -74,9 +86,9 @@
 	[
 		"/C/1-Code",
 		"/C/1-Code/Learn",
+		"/C/1-Code/Learn/1-Test",
 		"/C/1-Code/Learn/Treehouse",
-		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website",
-		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/css"
+		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website"
 	],
 	"file_history":
 	[
@@ -221,15 +233,44 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1702,
+						"buffer_size": 1845,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 411.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/1-Code/Learn/1-Test/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1618,
+								1618
 							]
 						],
 						"settings":
@@ -241,24 +282,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "css/main.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 163,
+						"buffer_size": 1459,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								934,
+								934
 							]
 						],
 						"settings":
@@ -269,7 +310,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
