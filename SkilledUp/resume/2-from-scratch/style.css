@@ -1,12 +1,15 @@
 /* Defaults */
 
+* {
+  box-sizing:  border-box;
+}
+
 body {
 	color: #555;
 	font-family: Helvetica, sans-serif;
 	font-size: 0.9em;
   font-weight:  300;
   line-height: 1.5;
-	width: 940px;
 }
 
 h1 {
@@ -40,6 +43,10 @@ ul {
 
 main {
   position: relative;
+  width: 940px;
+  margin: auto;
+	background-color: #555;
+	padding-left: 290px;
 }
 
 .date {
@@ -50,19 +57,25 @@ main {
   top: 0; */
 }
 
-
+.content {
+	display: inline-block;
+	width: 650px;
+	min-height: 100vh;
+	background-color: #fff;
+}
 
 
 aside {
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 282px;
+	width: 290px;
+	color: #fff;
 }
 
-main {
-	position: absolute;
-	top: 0;
-	left: 30%;
-	width: 658px;
+img {
+	width: 100px;
+	border-radius: 100%;
+	margin: auto;
+	display: block;
 }
