@@ -27,22 +27,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 2070,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/main.css",
-			"settings":
-			{
-				"buffer_size": 2924,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -86,20 +70,22 @@
 	"expanded_folders":
 	[
 		"/C/1-Code",
-		"/C/1-Code/Learn",
-		"/C/1-Code/Learn/Treehouse",
 		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website",
 		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/css",
-		"/C/1-Code/Skilledup-FrontEnd"
+		"/C/1-Code/Skilledup-FrontEnd",
+		"/C/1-Code/test3"
 	],
 	"file_history":
 	[
+		"/C/1-Code/test3/index.html",
+		"/C/1-Code/test2/main.css",
+		"/C/1-Code/test2/index.html",
+		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/index.html",
+		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/css/main.css",
 		"/C/1-Code/Learn/1-Test/style.css",
 		"/C/1-Code/Learn/1-Test/index.html",
-		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/css/main.css",
 		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/contact.html",
 		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/about.html",
-		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/index.html",
 		"/C/1-Code/Learn/SkilledUp/resume/2-from-scratch/style.css",
 		"/C/1-Code/Learn/SkilledUp/resume/1-copy-original/style.css",
 		"/C/1-Code/Learn/SkilledUp/resume/2-from-scratch/index.html",
@@ -250,68 +236,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2070,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2070,
-								2070
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 336.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "css/main.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2924,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2924,
-								2924
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": -0.0,
-						"translation.y": 2661.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
