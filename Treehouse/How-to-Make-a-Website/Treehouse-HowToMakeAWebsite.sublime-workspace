@@ -69,11 +69,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/1-Code",
-		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website",
-		"/C/1-Code/Learn/Treehouse/How-to-Make-a-Website/css",
-		"/C/1-Code/Skilledup-FrontEnd",
-		"/C/1-Code/test3"
+		"/C/1-Code"
 	],
 	"file_history":
 	[
@@ -183,6 +179,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"http",
 			"vh",
 			"color",
 			"absolute",
