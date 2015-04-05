@@ -27,6 +27,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/1-Code/Learn/1-Test/emmet.html",
+			"settings":
+			{
+				"buffer_size": 1919,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -69,10 +77,18 @@
 	},
 	"expanded_folders":
 	[
-		"/C/1-Code"
+		"/C/1-Code",
+		"/C/1-Code/Learn",
+		"/C/1-Code/Learn/1-Test"
 	],
 	"file_history":
 	[
+		"/C/1-Code/Learn/1-Test/emmit.html",
+		"/C/1-Code/pachelbel117.github.io/project-3-landing-page/1-re-purpose/index.html",
+		"/C/1-Code/pachelbel117.github.io/project-3-landing-page/designs/homepage.html",
+		"/C/1-Code/pachelbel117.github.io/project-3-landing-page/designs/assets/bg.jpg",
+		"/C/1-Code/pachelbel117.github.io/project-3-landing-page/designs/homepage.jpg",
+		"/C/1-Code/pachelbel117.github.io/index.html",
 		"/C/1-Code/test3/index.html",
 		"/C/1-Code/test2/main.css",
 		"/C/1-Code/test2/index.html",
@@ -99,7 +115,6 @@
 		"/C/1-Code/Learn/CodeSchool/Front-End-Foundations/Open-Source-Records/expressions.html",
 		"/C/1-Code/Learn/CodeSchool/Front-End-Foundations/Open-Source-Records/index.html",
 		"/C/1-Code/pachelbel117.github.io/style.css",
-		"/C/1-Code/pachelbel117.github.io/index.html",
 		"/C/1-Code/Learn/SkilledUp/Example-Resume/style.css",
 		"/C/1-Code/Learn/SkilledUp/Example-Resume/index.html",
 		"/C/Users/Bob/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
@@ -179,6 +194,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"h1",
+			"nav",
 			"http",
 			"vh",
 			"color",
@@ -233,6 +250,41 @@
 	"groups":
 	[
 		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/1-Code/Learn/1-Test/emmet.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1513,
+								1513
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 231.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
 			"sheets":
 			[
 			]
@@ -255,11 +307,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -315,7 +374,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 239.0,
+	"side_bar_width": 184.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

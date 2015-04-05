@@ -1,8 +1,19 @@
+body {
+	margin: 0;
+}
+
 p {
-	color: red;		
 	text-align: center;
 }
 
 h1 {
-	color: blue;
+	color: red;
+}
+
+.outline {
+	width: 150px;
+	padding: 10px;
+	border: 10px solid red;
+	margin: 20px;
+	outline: 10px solid blue;
 }
