@@ -18,3 +18,44 @@ h1 {
 	outline: 10px solid blue;
 }
 
+/* BLUE BOX */
+.blue-block {
+   background: blue;
+   width: 100px;
+   height: 100px;
+   transition: background 300ms;
+}
+
+.blue-block:hover {
+  background: red;
+}
+
+.blue-block:active {
+  background: green;
+}
+
+
+
+/* KEYFRAME */
+@-webkit-keyframes red-animation {
+  0%: {
+    background: yellow;
+  }
+  33% {
+    background: red;
+  }
+  66% {
+    background: green;
+  }
+  100%: {
+    background: blue;
+  }
+}
+
+.red-box {
+	background-color: yellow;
+	width: 150px;
+	height: 150px;
+	-webkit-animation: red-animation 3s;
+}
+
