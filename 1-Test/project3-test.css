@@ -1,7 +1,8 @@
+/* Using breakpoints, create three different sizes at which Goldi Locks mood changes. She should be sad at the largest size (desktop), okay at the middle size (tablet), and happiest at the mobile size. Have the size of the container max out at 1200px, and have it expand to 100% at mobile size. */
 /* Have the size of the container max out at 1200px, and have it expand to 100% at mobile size. */
-
 .goldi-locks {
   width:  80%;
+  max-width:  1200px;
   margin: 0 auto;
   font-size: 30px;
   text-align: center;
