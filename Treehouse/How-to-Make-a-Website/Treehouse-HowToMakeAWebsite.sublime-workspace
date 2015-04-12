@@ -4,12 +4,12 @@
 		"selected_items":
 		[
 			[
-				"font",
-				"font-weight"
+				"back",
+				"background-image"
 			],
 			[
-				"back",
-				"background-repeat"
+				"font",
+				"font-weight"
 			],
 			[
 				"red-",
@@ -48,18 +48,34 @@
 	"buffers":
 	[
 		{
-			"file": "/C/1-Code/pachelbel117.github.io/project-3-landing-page/1-re-purpose/index.html",
+			"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/index.html",
 			"settings":
 			{
-				"buffer_size": 2357,
+				"buffer_size": 2618,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/1-Code/pachelbel117.github.io/project-3-landing-page/1-re-purpose/css/main.css",
+			"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/video.html",
 			"settings":
 			{
-				"buffer_size": 3744,
+				"buffer_size": 1335,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/contact.html",
+			"settings":
+			{
+				"buffer_size": 1414,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/css/main.css",
+			"settings":
+			{
+				"buffer_size": 4429,
 				"line_ending": "Windows"
 			}
 		}
@@ -107,21 +123,32 @@
 	[
 		"/C/1-Code",
 		"/C/1-Code/pachelbel117.github.io",
-		"/C/1-Code/pachelbel117.github.io/project-3-landing-page",
 		"/C/1-Code/pachelbel117.github.io/project-3-landing-page/1-re-purpose",
-		"/C/1-Code/pachelbel117.github.io/project-3-landing-page/1-re-purpose/css"
+		"/C/1-Code/pachelbel117.github.io/project-3-landing-page/1-re-purpose/css",
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site",
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose",
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/css",
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/old-site/css",
+		"/C/1-Code/pachelbel117.github.io/project-5-restaurant-site/assets/images"
 	],
 	"file_history":
 	[
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/css/main.css",
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/video.html",
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/index.html",
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/index2.html",
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/css/main2.css",
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/contact.html",
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/old-site/css/main.css",
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/old-site/index.html",
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/designs/text.txt",
+		"/C/1-Code/pachelbel117.github.io/project-3-landing-page/1-re-purpose/index.html",
 		"/C/1-Code/pachelbel117.github.io/project-3-landing-page/1-re-purpose/css/main.css",
 		"/C/1-Code/Learn/1-Test/project3-test.html",
 		"/C/1-Code/Learn/1-Test/project3-test.css",
 		"/C/1-Code/Learn/1-Test/index.html",
 		"/C/1-Code/Learn/1-Test/style.css",
 		"/C/1-Code/Learn/1-Test/script.js",
-		"/C/1-Code/pachelbel117.github.io/project-3-landing-page/1-re-purpose/index.html",
-		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/old-site/css/main.css",
-		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/old-site/index.html",
 		"/C/Users/Bob/Desktop/node-test.js",
 		"/C/1-Code/Learn/1-Test/gradient-half-steps.html",
 		"/C/1-Code/Learn/1-Test/emmet.html",
@@ -232,6 +259,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"webkit",
+			"width",
+			"color:",
 			"font-family",
 			"00",
 			"fa",
@@ -304,19 +334,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/1-Code/pachelbel117.github.io/project-3-landing-page/1-re-purpose/index.html",
+					"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2357,
+						"buffer_size": 2618,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								795,
-								795
+								498,
+								499
 							]
 						],
 						"settings":
@@ -326,10 +356,71 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 123.0,
+						"translation.y": 559.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/video.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1130,
+								1130
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 348.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1069,
+								1069
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 354.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -339,20 +430,20 @@
 			"sheets":
 			[
 				{
-					"buffer": 1,
-					"file": "/C/1-Code/pachelbel117.github.io/project-3-landing-page/1-re-purpose/css/main.css",
+					"buffer": 3,
+					"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/css/main.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3744,
+						"buffer_size": 4429,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3307,
-								3307
+								0,
+								0
 							]
 						],
 						"settings":
@@ -362,10 +453,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3102.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -399,7 +490,7 @@
 		"cols":
 		[
 			0.0,
-			0.480240549828,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -447,7 +538,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
