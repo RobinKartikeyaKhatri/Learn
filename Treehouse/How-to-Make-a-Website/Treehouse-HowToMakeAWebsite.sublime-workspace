@@ -48,10 +48,13 @@
 	"buffers":
 	[
 		{
+			"contents": "<!doctype html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n    <title>Dollar Dollar Club</title>\n    <meta name=\"description\" content=\"A cool startup site\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,900' rel='stylesheet' type='text/css'>\n    <link rel=\"stylesheet\" href=\"http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css\">\n    <link rel=\"stylesheet\" href=\"css/main.css\">\n  </head>\n  <body class=\"page-homepage\">\n    <div class=\"body-wrap\">\n      <section class=\"hero\">\n        <div class=\"hero-image\">\n          <div class=\"hero-text\">\n            <h1>Your first billion for only a buck.</h1>\n            <p>The new hottest currency club. Introducing <strong>Dollar Dollar Club.</strong></p>\n            <div class=\"subscribe\">\n              <!-- <input type=\"text\" placeholder=\"E-mail\">\n              <button>Subscribe</button> -->\n\n<!-- Begin MailChimp Signup Form -->\n<div id=\"mc_embed_signup\">\n<form action=\"//learnmeanstack.us10.list-manage.com/subscribe/post?u=baac65f83ebb5ab4a5917eaaf&amp;id=f2848616ab\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n	\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span> indicates required</div>\n<div class=\"mc-field-group\">\n	<label for=\"mce-EMAIL\">Email Address  <span class=\"asterisk\">*</span>\n</label>\n	<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n	<div id=\"mce-responses\" class=\"clear\">\n		<div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n		<div class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>\n	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->\n    <div style=\"position: absolute; left: -5000px;\"><input type=\"text\" name=\"b_baac65f83ebb5ab4a5917eaaf_f2848616ab\" tabindex=\"-1\" value=\"\"></div>\n    <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n<!-- End mc_embed_signup-->\n\n            </div>\n          </div>\n        </div>\n      </section>\n\n      <main>\n        <section class=\"more-info\">\n          <h2>What is the Dollar Dollar Club?</h2>\n          <p>Hover below to see just how DDC works. Then check out our <a href=\"video.html\">video</a> or check out <a href=\"contact.html\">how to find us</a>.</p></p>\n        </section>\n\n        <section class=\"columns\">\n          <section class=\"send-money hover col\">\n            <section class=\"circle\">\n              <i class=\"fa fa-money fa-4x\"></i>\n              <h3>SEND MONEY</h3>\n            </section>\n            <p>First things first. Drop off any your $1 at any DDC location. You can even give us a call and we'll come pick up your money.</p>\n          </section>\n\n          <section class=\"receive hover col\">\n            <section class=\"circle\">\n              <i class=\"fa fa-tint fa-4x\"></i>\n              <h3>RECEIVE</h3>\n            </section>\n            <p>Next we scour our collection of thousands of currencies and pick a bill just for you.</p>\n          </section>\n\n          <section class=\"repeat hover col\">\n            <section class=\"circle\">\n              <i class=\"fa fa-heart fa-4x\"></i> \n              <h3>REPEAT</h3>\n            </section>\n            <p>Try us once and you'll be hooked on your new crisp, minty bills. With our frequent collector program, every 10 months, you get one free!</p>\n          </section>\n        </section>\n        \n      </main>\n      \n      <footer>\n        <p>Copyright Dollar Dollar Club</p>\n      </footer>\n    </div>\n    <script src=\"js/main.js\"></script>\n  </body>\n</html>\n",
 			"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/index.html",
+			"file_size": 3909,
+			"file_write_time": 130733548652222697,
 			"settings":
 			{
-				"buffer_size": 2618,
+				"buffer_size": 3928,
 				"line_ending": "Windows"
 			}
 		},
@@ -59,7 +62,7 @@
 			"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/video.html",
 			"settings":
 			{
-				"buffer_size": 1335,
+				"buffer_size": 2454,
 				"line_ending": "Windows"
 			}
 		},
@@ -67,7 +70,7 @@
 			"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/contact.html",
 			"settings":
 			{
-				"buffer_size": 1414,
+				"buffer_size": 2222,
 				"line_ending": "Windows"
 			}
 		},
@@ -75,7 +78,23 @@
 			"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/css/main.css",
 			"settings":
 			{
-				"buffer_size": 4429,
+				"buffer_size": 4179,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/css/video.css",
+			"settings":
+			{
+				"buffer_size": 5015,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/css/contact.css",
+			"settings":
+			{
+				"buffer_size": 4355,
 				"line_ending": "Windows"
 			}
 		}
@@ -122,17 +141,23 @@
 	"expanded_folders":
 	[
 		"/C/1-Code",
+		"/C/1-Code/Learn/1-Test",
+		"/C/1-Code/Learn/1-Test/animation",
 		"/C/1-Code/pachelbel117.github.io",
+		"/C/1-Code/pachelbel117.github.io/project-3-landing-page",
 		"/C/1-Code/pachelbel117.github.io/project-3-landing-page/1-re-purpose",
-		"/C/1-Code/pachelbel117.github.io/project-3-landing-page/1-re-purpose/css",
-		"/C/1-Code/pachelbel117.github.io/project-4-startup-site",
 		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose",
-		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/css",
-		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/old-site/css",
-		"/C/1-Code/pachelbel117.github.io/project-5-restaurant-site/assets/images"
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/designs",
+		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/designs/assets",
+		"/C/1-Code/pachelbel117.github.io/project-5-restaurant-site",
+		"/C/1-Code/pachelbel117.github.io/project-5-restaurant-site/assets",
+		"/C/1-Code/pachelbel117.github.io/project-5-restaurant-site/designs"
 	],
 	"file_history":
 	[
+		"/C/1-Code/pachelbel117.github.io/project-5-restaurant-site/assets/text.txt",
+		"/C/1-Code/Learn/1-Test/animation/main.css",
+		"/C/1-Code/Learn/1-Test/animation/index.html",
 		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/css/main.css",
 		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/video.html",
 		"/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/index.html",
@@ -259,6 +284,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"button",
+			"#",
+			"#1",
+			"#0",
+			"hero-im",
+			"image",
+			"vh",
+			"image",
 			"webkit",
 			"width",
 			"color:",
@@ -338,28 +371,28 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2618,
+						"buffer_size": 3928,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								498,
-								499
+								1662,
+								1662
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 559.0,
+						"translation.y": 351.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -368,15 +401,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1335,
+						"buffer_size": 2454,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1130,
-								1130
+								608,
+								608
 							]
 						],
 						"settings":
@@ -387,10 +420,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 348.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -399,15 +432,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1414,
+						"buffer_size": 2222,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1069,
-								1069
+								617,
+								617
 							]
 						],
 						"settings":
@@ -417,16 +450,16 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 354.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -435,15 +468,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4429,
+						"buffer_size": 4179,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2327,
+								2327
 							]
 						],
 						"settings":
@@ -456,7 +489,67 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/css/video.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/1-Code/pachelbel117.github.io/project-4-startup-site/1-re-purpose/css/contact.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -538,9 +631,24 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		]
 	},
 	"show_minimap": true,
 	"show_open_files": false,
@@ -550,5 +658,6 @@
 	"status_bar_visible": true,
 	"template_settings":
 	{
+		"max_columns": 2
 	}
 }
