@@ -1,0 +1,14 @@
+body {
+	background-color: darkgray;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	color: red;
+}
+
+li {
+	list-style: none;
+	margin-left: -40px;
+}
