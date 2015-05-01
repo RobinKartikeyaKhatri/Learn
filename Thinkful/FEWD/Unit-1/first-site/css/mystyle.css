@@ -8,8 +8,20 @@ h1 {
 	color: red;
 }
 
-li {
+ul {
+	width: 200px;
+	margin: 0 auto;
 	list-style-type: none;
-	margin-left: -40px;
-	/*-webkit-padding-start: 0;*/
+	padding: 0;
+}
+
+ul li {
+	padding: 0;
+	margin: 0;
+	/*margin: 0 auto;*/
+}
+
+li {
+	
+	/*margin-left: -40px;*/
 }
