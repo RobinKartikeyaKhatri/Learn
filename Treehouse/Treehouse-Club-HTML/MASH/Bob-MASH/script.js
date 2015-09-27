@@ -1,14 +1,3 @@
-function random_number(num) {
-  var num = num || 4
-  return Math.floor(Math.random() * num);
-}
-
-function mash_choice() {
-  var mash = ['mansion', 'apartmnet', 'shack', 'house'];
-  var randomNum = random_number(4);
-  return mash[randomNum];
-}
-
 function get_answer(category) {
   var choices = [];
   var selector = 'input[name="' + category + '[]"]';
@@ -22,6 +11,17 @@ function get_answer(category) {
     }
   }
   return choices[random_number(choices.length)];
+}
+
+function random_number(num) {
+  var num = num || 4
+  return Math.floor(Math.random() * num);
+}
+
+function mash_choice() {
+  var mash = ['mansion', 'apartmnet', 'shack', 'house'];
+  var randomNum = random_number(4);
+  return mash[randomNum];
 }
 
 function fill_in_answers(answers) {
