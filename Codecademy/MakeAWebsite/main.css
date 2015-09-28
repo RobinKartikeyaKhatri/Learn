@@ -7,17 +7,19 @@
 }
 
 .nav li {
-    display: inline;
+  display: inline;
 }
 
 .jumbotron {
-  background-image:url('http://goo.gl/04j7Nn');
+  background-image:url('http://goo.gl/29ja16');
   height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .jumbotron .container {
-    position: relative;
-    top: 100px;
+  position: relative;
+  top:100px;
 }
 
 .jumbotron h1 {
@@ -30,6 +32,21 @@
 .jumbotron p {
   font-size: 20px;
   color: #fff;
+}
+
+.neighborhood-guides {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.neighborhood-guides h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.neighborhood-guides p {
+    font-size: 15px;
+    margin-bottom: 13px;
 }
 
 .learn-more {
